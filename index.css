@@ -1,0 +1,227 @@
+.list{
+    display: flex;
+    color: black;
+
+}
+.home{
+    padding-left: 0 10px;
+    background-color: #FBC130;
+    background-image: linear-gradient(112deg, rgb(255, 255, 255)50%, #FBC130 0%);
+    height: 60vh;
+}
+.ger{
+    height: 3rem;
+    width: 3rem;
+}
+.top{
+    color: #FBC130;
+}
+.heading{
+    font-size: medium;
+    font-weight: 1000;
+    font-style: italic;
+}
+.quality{
+    color: brown;
+}
+.initial{
+    display: flex;
+    padding: 0.3rem;
+
+}
+.bar-elements{
+    display: flex;
+    margin-right: 3rem;
+    
+}
+.bar-elements>ul>li{
+    list-style: none;
+    margin:0 1rem;
+    text-decoration: none;
+    
+}.bar-elements>ul>li>a{
+    text-decoration: none;
+    color: black;
+}
+.list{
+    display: flex;
+    margin-right: 3rem;
+}
+
+.order{
+    color: white;
+    background-color: #fa9529;
+    border: none;
+    margin-top: 3rem;
+    border-radius: 25px 25px 0px 25px;
+    padding: .7rem 1.4rem;
+    }
+    .art{
+        height: 25rem;
+        width: 15rem;
+        padding: left 20px; ;
+        
+    }
+    .authentic{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 4rem;
+        padding: 0 4rem;
+        
+    }
+.line{
+    font-size: 2.5rem;
+    font-weight:bold;
+}
+.card-holder{
+    background-color: white;
+    border: 3px solid aliceblue;
+    height: 30rem;
+    width: 20rem;
+    margin: 2em;
+    text-align: center;
+    border-radius: 2rem;
+    padding-top: 2rem;
+    display:flex wrap ;
+    
+}
+.cardss{
+    height: rem;
+    background-color:aliceblue;
+    display: flex;
+    margin: 1.5 rem
+}
+.lorems{
+    background-color: white;
+    border: 1px solid brown;
+    height: 15rem;
+    width: 20rem;
+    margin: 2em;
+    text-align: center;
+    border-radius: 1rem;
+    padding-top: 7rem;
+    margin-top: 4rem;
+    display: flex-wrap;
+
+    
+}
+.loremss{
+    background-color: white;
+    border: 1px solid brown;
+    height: 20rem;
+    width: 20rem;
+    margin: 2em;
+    text-align: center;
+    border-radius: 1rem;
+    padding-top: 7rem;
+    display: flex-wrap;
+}
+.none{
+    height: 7rem;
+    width: 9rem;
+}
+.double{
+    display: flex;
+    justify-content: center;
+}
+.elit{
+    height: 7rem;
+    width: 9rem;
+
+}
+.peak{
+    background-color: white;
+    border: 3px solid aliceblue;
+    border-radius: 2rem;
+    height: 30rem;
+    width: 20rem;
+    margin: 1rem;
+    text-align: center;
+}
+.amet{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    text-align: center;
+}
+.our{
+    color: #FBC130;
+}
+.container{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around
+;
+    
+}
+.the{
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 3rem;
+
+   
+}
+.ecker{
+    font-size:2rem;
+    font-weight: bolder;
+    color: #FBC130;
+ 
+   
+    
+}
+
+.bubble{
+    height: 15rem;
+    width: 15rem;
+    /* margin-left: 7rem; */
+   /* margin:0 -19rem; */
+   margin-top: 2rem;
+    
+
+}
+.bubblee{
+    height: 15rem;
+    width: 15rem;
+    /* margin-top: 0rem; */
+
+}
+.bub{
+  margin:0 -19rem;
+}
+
+.taste{
+    display: flex;
+    margin-left: 12rem;
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    margin: .3rem .5rem;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .dott{
+    background-color: #FBC130;
+  }
+  .doti{
+    font-size: 5rem;
+    padding: -2rem 2rem;
+     color: #fa9529;
+  }
+  .sint{
+    color: brown;
+  }
+  nav{
+    display: flex;
+    height: 3rem;
+    justify-content: space-between;
+  }
+
+
+
+
+
+
+
